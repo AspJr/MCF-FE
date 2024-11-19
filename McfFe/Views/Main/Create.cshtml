@@ -1,0 +1,64 @@
+﻿@model McfFe.Models.BPKB
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@{
+    var options = ViewBag.DropdownStorages as List<Storage>;
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <form class="form-horizontal" asp-action="CreateLogic">
+                <div class="form-group">
+                    <label class="control-label">Aggreement Number</label>
+                    <input asp-for="agreement_number" class="form-control" type="text" readonly />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Branch Id</label>
+                    <input asp-for="branch_id" class="form-control" type="text" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">No. BPKB</label>                       
+                    <input asp-for="bpkb_no" class="form-control" type="text" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Tanggal BPKB In</label>
+                    <input asp-for="bpkb_date_in" class="form-control" type="date" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Tanggal BPKB</label>
+                    <input asp-for="bpkb_date" class="form-control" type="date" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">No. Faktur</label>
+                    <input asp-for="faktur_no" class="form-control" type="text" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Tanggal Faktur</label>
+                    <input asp-for="faktur_date" class="form-control" type="date" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Nomor Polisi</label>
+                    <input asp-for="police_no" class="form-control" type="text" />
+                </div>
+                <div>
+                    <label for="dropdown">Lokasi Penyimpanan:</label>
+                    <select id="dropdown" name="dropdown" class="form-control">
+                            <option value="">-- Select an Option --</option>
+                            @foreach (var option in options)
+                            {
+                                <option value="@option.location_id">@option.location_name</option>
+                            }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Submit" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
