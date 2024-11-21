@@ -79,9 +79,9 @@
                 @Html.DisplayFor(modelItem => item.user_id)
             </td> *@
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                    @Html.ActionLink("Edit", "Update", new { item.agreement_number /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { item.agreement_number/* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { item.agreement_number /* id=item.PrimaryKey */ })
             </td>
         </tr>
 }

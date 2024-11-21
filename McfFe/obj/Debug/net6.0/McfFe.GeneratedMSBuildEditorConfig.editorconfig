@@ -34,8 +34,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project/McfFe/McfFe/McfFe/Views/Main/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/McfFe/McfFe/McfFe/Views/Main/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project/McfFe/McfFe/McfFe/Views/Main/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/McfFe/McfFe/McfFe/Views/Main/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project/McfFe/McfFe/McfFe/Views/Shared/Error.cshtml]

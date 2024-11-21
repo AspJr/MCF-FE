@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "D:\\Project\\McfFe\\McfFe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\views\\main\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\views\\main\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\views\\main\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\views\\main\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\models\\bpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\models\\bpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\views\\main\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\views\\main\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\models\\bpkbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\models\\bpkbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\views\\main\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\views\\main\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\views\\main\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\views\\main\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|d:\\project\\mcffe\\mcffe\\mcffe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A34EDBA-C7EC-49CF-AE3D-A35BC32A8B08}|McfFe\\McfFe.csproj|solutionrelative:mcffe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,63 +54,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Storage.cs",
-              "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\Storage.cs",
-              "RelativeDocumentMoniker": "McfFe\\Models\\Storage.cs",
-              "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\Storage.cs",
-              "RelativeToolTip": "McfFe\\Models\\Storage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "DocumentIndex": 4,
+              "Title": "BpkbResponse.cs",
+              "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\BpkbResponse.cs",
+              "RelativeDocumentMoniker": "McfFe\\Models\\BpkbResponse.cs",
+              "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\BpkbResponse.cs",
+              "RelativeToolTip": "McfFe\\Models\\BpkbResponse.cs",
+              "ViewState": "AQIAABIAAABAzszMzMwkwCwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:15:46.151Z",
+              "WhenOpened": "2024-11-21T13:41:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BPKB.cs",
+              "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\BPKB.cs",
+              "RelativeDocumentMoniker": "McfFe\\Models\\BPKB.cs",
+              "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\BPKB.cs",
+              "RelativeToolTip": "McfFe\\Models\\BPKB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:41:14.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Delete.cshtml",
+              "RelativeDocumentMoniker": "McfFe\\Views\\Main\\Delete.cshtml",
+              "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Delete.cshtml",
+              "RelativeToolTip": "McfFe\\Views\\Main\\Delete.cshtml",
+              "ViewState": "AQIAAAQAAAAAmZmZmZkuwA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T13:33:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Details.cshtml",
+              "RelativeDocumentMoniker": "McfFe\\Views\\Main\\Details.cshtml",
+              "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Details.cshtml",
+              "RelativeToolTip": "McfFe\\Views\\Main\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T12:04:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\Storage.cs",
+              "RelativeDocumentMoniker": "McfFe\\Models\\Storage.cs",
+              "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\Storage.cs",
+              "RelativeToolTip": "McfFe\\Models\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:31:27.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Update.cshtml",
+              "RelativeDocumentMoniker": "McfFe\\Views\\Main\\Update.cshtml",
+              "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Update.cshtml",
+              "RelativeToolTip": "McfFe\\Views\\Main\\Update.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswEAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T10:29:47.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Index.cshtml",
               "RelativeDocumentMoniker": "McfFe\\Views\\Main\\Index.cshtml",
               "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Index.cshtml",
               "RelativeToolTip": "McfFe\\Views\\Main\\Index.cshtml",
-              "ViewState": "AQIAAB0AAABAPjMzMzMbwE8AAAAUAAAA",
+              "ViewState": "AQIAADoAAABACwAAAAAhwFIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-19T02:48:40.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Create.cshtml",
               "RelativeDocumentMoniker": "McfFe\\Views\\Main\\Create.cshtml",
               "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Views\\Main\\Create.cshtml",
               "RelativeToolTip": "McfFe\\Views\\Main\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwD8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-19T01:24:49.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainController.cs",
               "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "McfFe\\Controllers\\MainController.cs",
               "ToolTip": "D:\\Project\\McfFe\\McfFe\\McfFe\\Controllers\\MainController.cs",
               "RelativeToolTip": "McfFe\\Controllers\\MainController.cs",
-              "ViewState": "AQIAADwAAADgnZmZmVk8wE4AAAADAAAA",
+              "ViewState": "AQIAAKcAAACAAAAAAAAqwLMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T14:17:55.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Models\\User.cs",
               "RelativeDocumentMoniker": "McfFe\\Models\\User.cs",
@@ -98,12 +183,11 @@
               "RelativeToolTip": "McfFe\\Models\\User.cs",
               "ViewState": "AQIAAA8AAAAANTMzMzMLwBwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:57:02.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T04:57:02.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\McfFe\\McfFe\\McfFe\\Program.cs",
               "RelativeDocumentMoniker": "McfFe\\Program.cs",

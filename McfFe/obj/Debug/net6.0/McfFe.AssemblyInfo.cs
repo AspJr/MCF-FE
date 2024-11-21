@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("McfFe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd32bd91eea6ac3f6bec1d83667e0a65b317ebb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("McfFe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("McfFe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
